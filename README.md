@@ -8,7 +8,9 @@ This works, but for me it caused problems with other programs I have on my compu
 
 This mod changes the date for some parts of DCS to June 13, 2024 and then the radar in the F-15E Strike Eagle will work. I'm using Microsoft's Detours (https://github.com/microsoft/Detours/) to replace a date function in Windows with a function that returns 13 june, 2024 instead of the current date.
 
-All you have to do is copy and paste the the included zip-file to your DCS "Mods\Services" folder under "Saved Games", usually "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services".
+## Installation
+
+All you have to do is copy and paste the the included zip-file from https://github.com/StrikeRat/EagleEye/releases to your DCS "Mods\Services" folder under "Saved Games", usually "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services".
 
 If you don't have the folder(s) "Mods\Services", create them.
 
