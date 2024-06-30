@@ -15,7 +15,7 @@ If you don't have the folder(s) "Mods\Services", create them.
 Copy the "EagleEye" folder from the zip-file to "Mods\Services". The correct path should be "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services\EagleEye" and in the "EagleEye" folder you should have the following files and folders:
 
 - entry.lua
-- bin\eagleeye.dll
+- bin\EagleEye.dll
 - Theme\icon.png
 - Theme\icon-38x38.png
 - Theme\icon-76x76.png
