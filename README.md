@@ -10,7 +10,7 @@ This mod changes the date for some parts of DCS to June 13, 2024 and then the ra
 
 ## Installation
 
-All you have to do is copy and paste the the included zip-file from https://github.com/StrikeRat/EagleEye/releases to your DCS "Mods\Services" folder under "Saved Games", usually "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services".
+All you have to do is download and extract the file EagleEye.zip from https://github.com/StrikeRat/EagleEye/releases to your DCS "Mods\Services" folder under "Saved Games", usually "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services".
 
 If you don't have the folder(s) "Mods\Services", create them.
 
