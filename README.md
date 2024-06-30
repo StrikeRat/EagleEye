@@ -1,4 +1,4 @@
-# Eagle Eye
+# Eagle Eye - simple mod that fixes the RAZBAM F-15E radar
 
 Since June 14, 2024, the radar in RAZBAM's F-15E Strike Eagle has stopped working. This is because of a certificate with an expiry date of 13 June 2024.
 
@@ -6,7 +6,7 @@ A fix for this is to start DCS, change the computer's date to June 13, 2024 or e
 
 This works, but for me it caused problems with other programs I have on my computer.
 
-This mod changes the date for some parts of DCS to June 13, 2024 and then the radar in the F-15E Strike Eagle will work. I'm using Microsoft's Detours (https://github.com/microsoft/Detours/) to replace a date function in Windows with a function that returns 13 june, 2024 instead of the current date.
+This mod changes the date for some parts of DCS to June 13, 2024 and then the radar in the F-15E Strike Eagle will work. I'm using Microsoft's Detours (https://github.com/microsoft/Detours/) to replace a date function in Windows with a function that returns 13 june, 2024 instead of the current date. This is done in file "dllmain.cpp". The folder "Detours-main" contains a copy of Microsoft's Detours, and you can replace the folder with your own copy.
 
 ## Installation
 
