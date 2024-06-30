@@ -14,7 +14,7 @@ All you have to do is download and extract the file EagleEye.zip from https://gi
 
 If you don't have the folder(s) "Mods\Services", create them.
 
-Copy the "EagleEye" folder from the zip-file to "Mods\Services". The correct path should be "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services\EagleEye" and in the "EagleEye" folder you should have the following files and folders:
+Extract the "EagleEye" folder from the zip-file to "Mods\Services". The correct path should be "C:\Users\<YOUR USERNAME>\Saved Games\DCS\Mods\Services\EagleEye" and in the "EagleEye" folder you should have the following files and folders:
 
 - entry.lua
 - bin\EagleEye.dll
